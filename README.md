@@ -1,4 +1,4 @@
-# My Little Crony
+# My Little Crony - Grakn
 
 This repo contains the data and code for my Shiny App, [My Little Crony](https://sophieehill.shinyapps.io/my-little-crony/), visualizing links between Tory politicians and the private companies being awarded government contracts during the pandemic (even without a tender process).
 
